@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 022f4d89346f8d9418fd2e8178c752ae, type: 3}
+  m_Name: Pickup Coin
+  m_EditorClassIdentifier: 
+  audioClips:
+  - {fileID: 8300000, guid: f380f2161a8777c47a167e65c4fb4437, type: 3}
+  - {fileID: 8300000, guid: 0f555bb9d03653d40b4ea9ffc534d073, type: 3}
+  - {fileID: 8300000, guid: a15bb0df63988024d8103f2fda03b0f1, type: 3}
+  mixerGroup: {fileID: 0}
+  volumeOverride: 0
