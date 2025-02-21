@@ -242,14 +242,14 @@ MonoBehaviour:
   valueText: {fileID: 5924047688776096153}
   currencyType: 0
   unlockCost: 0
-  currencyObject: {fileID: 8162156161139387615, guid: 62eaf2bdde0cea949a3decef67f0df3a, type: 3}
   printArea: 3.5
   yOffset: 1.5
   printFrequency: 1
   printType: 0
   printAmount: 1
-  maxPrintAmount: 20
+  maxStoredAmount: 20
   unlockEffect: {fileID: 11400000, guid: f73797e6fabc40c42b9fc1792be09b03, type: 2}
+  storedResource: 0
 --- !u!135 &6899063066312114455
 SphereCollider:
   m_ObjectHideFlags: 0

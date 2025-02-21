@@ -15,6 +15,8 @@ namespace IdleTycoon.UI
 
         [Tooltip("UI Element for the money count")]
         public TextMeshProUGUI moneyCount;
+        public TextMeshProUGUI cornCount;
+        public TextMeshProUGUI aplleCount;
 
         private void Awake()
         {
@@ -26,6 +28,8 @@ namespace IdleTycoon.UI
             }
 
             Destroy(this);
+
+            UpdateInitMoneyUI();
         }
 
         private void Start()
@@ -37,6 +41,13 @@ namespace IdleTycoon.UI
             UIUtility.ForceRebuildRecursive(moneyContainer);
         }
 
+        void UpdateInitMoneyUI()
+        {
+            moneyCount.text = CurrencyManager.Get(CurrencyType.Cash).ToString("0");
+            cornCount.text = CurrencyManager.Get(CurrencyType.Corn).ToString("0");
+            UIUtility.ForceRebuildRecursive(moneyContainer);
+        }
+
         void UpdateMoneyUI(CurrencyType type)
         {
             // Check the currency type to update
@@ -45,6 +56,10 @@ namespace IdleTycoon.UI
                 case CurrencyType.Cash: 
                     // Update the Cash UI amount based on the current Currency amount available.
                     moneyCount.text = CurrencyManager.Get(CurrencyType.Cash).ToString("0");
+
+                    break;
+                case CurrencyType.Corn:
+                    cornCount.text = CurrencyManager.Get(CurrencyType.Corn).ToString("0");
 
                     break;
             }
