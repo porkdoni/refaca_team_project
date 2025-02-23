@@ -4,6 +4,7 @@ public class ZoneBoundary : MonoBehaviour
 {
     public int zoneId;
     public Rect bounds;
+    public int unlockCost; // 해금 비용
 
     void Start()
     {

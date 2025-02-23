@@ -413,6 +413,7 @@
 "Assets/Idle-Tycoon Template 3D/Scripts/UI/Utility/UILookAtCamera.cs"
 "Assets/Idle-Tycoon Template 3D/Scripts/UI/Utility/UIUtility.cs"
 "Assets/Idle-Tycoon Template 3D/Scripts/Utility/MathUtil.cs"
+"Assets/PolygonFarm/Scripts/Autobuilding.cs"
 "Assets/PolygonFarm/Scripts/FarmManager.cs"
 "Assets/PolygonFarm/Scripts/QuarterViewCamera.cs"
 "Assets/PolygonFarm/Scripts/UnlockZoneObject.cs"

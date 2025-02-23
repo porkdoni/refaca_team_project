@@ -1,15 +1,19 @@
 using UnityEngine;
 using System.Collections.Generic;
+using TMPro;
 
 public class FarmManager : MonoBehaviour
 {
     public List<ZoneBoundary> zoneBoundaries = new List<ZoneBoundary>();
     public List<int> unlockedZoneIds = new List<int>();
+    public int coins = 0;
+
+    public TextMeshProUGUI coinText;
 
     void Start()
     {
-        // 초기 해금 구역 설정 (zoneId가 1인 구역)
         UnlockZone(1);
+        UpdateCoinUI();
     }
 
     public bool IsPositionInUnlockedZone(Vector3 position)
@@ -27,11 +31,38 @@ public class FarmManager : MonoBehaviour
 
     public void UnlockZone(int zoneId)
     {
-        if (!unlockedZoneIds.Contains(zoneId))
+        ZoneBoundary zoneBoundary = zoneBoundaries.Find(z => z.zoneId == zoneId);
+        if (zoneBoundary != null && coins >= zoneBoundary.unlockCost && !unlockedZoneIds.Contains(zoneId))
         {
+            coins -= zoneBoundary.unlockCost;
             unlockedZoneIds.Add(zoneId);
             Debug.Log("Zone " + zoneId + " unlocked!");
-            // TODO: 해금 효과 적용 및 UI 업데이트
+            UpdateCoinUI();
+        }
+        else
+        {
+            Debug.Log("Not enough coins or already unlocked.");
+        }
+    }
+
+    public void UpdateCoinUI()
+    {
+        if (coinText != null)
+        {
+            coinText.text = FormatCoins(coins);
+        }
+    }
+
+    private string FormatCoins(int amount)
+    {
+        if (amount >= 1000000)
+        {
+            float thousands = amount / 1000f;
+            return Mathf.RoundToInt(thousands) + "K";
+        }
+        else
+        {
+            return amount.ToString();
         }
     }
 }
