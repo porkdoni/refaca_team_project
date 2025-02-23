@@ -3,52 +3,52 @@
   "WorkspaceRootPath": "C:\\unity project\\ref_group_project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8CBD1B65-C3AB-C13C-6CAA-8CC7581ABB2F}|Assembly-CSharp.csproj|c:\\unity project\\ref_group_project\\assets\\idle-tycoon template 3d\\scripts\\ui\\cropbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CBD1B65-C3AB-C13C-6CAA-8CC7581ABB2F}|Assembly-CSharp.csproj|solutionrelative:assets\\idle-tycoon template 3d\\scripts\\ui\\cropbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CBD1B65-C3AB-C13C-6CAA-8CC7581ABB2F}|Assembly-CSharp.csproj|c:\\unity project\\ref_group_project\\assets\\polygonfarm\\scripts\\unlockzoneobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CBD1B65-C3AB-C13C-6CAA-8CC7581ABB2F}|Assembly-CSharp.csproj|solutionrelative:assets\\polygonfarm\\scripts\\unlockzoneobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CBD1B65-C3AB-C13C-6CAA-8CC7581ABB2F}|Assembly-CSharp.csproj|C:\\unity project\\ref_group_project\\assets\\polygonfarm\\scripts\\farmmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CBD1B65-C3AB-C13C-6CAA-8CC7581ABB2F}|Assembly-CSharp.csproj|solutionrelative:assets\\polygonfarm\\scripts\\farmmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CBD1B65-C3AB-C13C-6CAA-8CC7581ABB2F}|Assembly-CSharp.csproj|C:\\unity project\\ref_group_project\\assets\\polygonfarm\\scripts\\quarterviewcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CBD1B65-C3AB-C13C-6CAA-8CC7581ABB2F}|Assembly-CSharp.csproj|solutionrelative:assets\\polygonfarm\\scripts\\quarterviewcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CBD1B65-C3AB-C13C-6CAA-8CC7581ABB2F}|Assembly-CSharp.csproj|C:\\unity project\\ref_group_project\\assets\\polygonfarm\\scripts\\zoneboundary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CBD1B65-C3AB-C13C-6CAA-8CC7581ABB2F}|Assembly-CSharp.csproj|solutionrelative:assets\\polygonfarm\\scripts\\zoneboundary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CBD1B65-C3AB-C13C-6CAA-8CC7581ABB2F}|Assembly-CSharp.csproj|C:\\unity project\\ref_group_project\\assets\\idle-tycoon template 3d\\scripts\\interactable\\structure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CBD1B65-C3AB-C13C-6CAA-8CC7581ABB2F}|Assembly-CSharp.csproj|solutionrelative:assets\\idle-tycoon template 3d\\scripts\\interactable\\structure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8CBD1B65-C3AB-C13C-6CAA-8CC7581ABB2F}|Assembly-CSharp.csproj|C:\\unity project\\ref_group_project\\assets\\idle-tycoon template 3d\\scripts\\cropinventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CBD1B65-C3AB-C13C-6CAA-8CC7581ABB2F}|Assembly-CSharp.csproj|solutionrelative:assets\\idle-tycoon template 3d\\scripts\\cropinventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CBD1B65-C3AB-C13C-6CAA-8CC7581ABB2F}|Assembly-CSharp.csproj|C:\\unity project\\ref_group_project\\assets\\idle-tycoon template 3d\\scripts\\interactable\\structures\\currencyareaprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CBD1B65-C3AB-C13C-6CAA-8CC7581ABB2F}|Assembly-CSharp.csproj|solutionrelative:assets\\idle-tycoon template 3d\\scripts\\interactable\\structures\\currencyareaprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CBD1B65-C3AB-C13C-6CAA-8CC7581ABB2F}|Assembly-CSharp.csproj|C:\\unity project\\ref_group_project\\assets\\idle-tycoon template 3d\\scripts\\currency\\currencytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CBD1B65-C3AB-C13C-6CAA-8CC7581ABB2F}|Assembly-CSharp.csproj|solutionrelative:assets\\idle-tycoon template 3d\\scripts\\currency\\currencytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8CBD1B65-C3AB-C13C-6CAA-8CC7581ABB2F}|Assembly-CSharp.csproj|C:\\unity project\\ref_group_project\\assets\\idle-tycoon template 3d\\scripts\\ui\\cropselectionbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CBD1B65-C3AB-C13C-6CAA-8CC7581ABB2F}|Assembly-CSharp.csproj|solutionrelative:assets\\idle-tycoon template 3d\\scripts\\ui\\cropselectionbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CBD1B65-C3AB-C13C-6CAA-8CC7581ABB2F}|Assembly-CSharp.csproj|C:\\unity project\\ref_group_project\\assets\\idle-tycoon template 3d\\scripts\\currency\\currencytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CBD1B65-C3AB-C13C-6CAA-8CC7581ABB2F}|Assembly-CSharp.csproj|solutionrelative:assets\\idle-tycoon template 3d\\scripts\\currency\\currencytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CBD1B65-C3AB-C13C-6CAA-8CC7581ABB2F}|Assembly-CSharp.csproj|C:\\unity project\\ref_group_project\\assets\\idle-tycoon template 3d\\scripts\\interactable\\structures\\currencyareaprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CBD1B65-C3AB-C13C-6CAA-8CC7581ABB2F}|Assembly-CSharp.csproj|solutionrelative:assets\\idle-tycoon template 3d\\scripts\\interactable\\structures\\currencyareaprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CBD1B65-C3AB-C13C-6CAA-8CC7581ABB2F}|Assembly-CSharp.csproj|C:\\unity project\\ref_group_project\\assets\\idle-tycoon template 3d\\scripts\\ui\\uicurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CBD1B65-C3AB-C13C-6CAA-8CC7581ABB2F}|Assembly-CSharp.csproj|solutionrelative:assets\\idle-tycoon template 3d\\scripts\\ui\\uicurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CBD1B65-C3AB-C13C-6CAA-8CC7581ABB2F}|Assembly-CSharp.csproj|C:\\unity project\\ref_group_project\\assets\\idle-tycoon template 3d\\scripts\\ui\\cropbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CBD1B65-C3AB-C13C-6CAA-8CC7581ABB2F}|Assembly-CSharp.csproj|solutionrelative:assets\\idle-tycoon template 3d\\scripts\\ui\\cropbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8CBD1B65-C3AB-C13C-6CAA-8CC7581ABB2F}|Assembly-CSharp.csproj|C:\\unity project\\ref_group_project\\assets\\idle-tycoon template 3d\\scripts\\ui\\cropui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CBD1B65-C3AB-C13C-6CAA-8CC7581ABB2F}|Assembly-CSharp.csproj|solutionrelative:assets\\idle-tycoon template 3d\\scripts\\ui\\cropui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CBD1B65-C3AB-C13C-6CAA-8CC7581ABB2F}|Assembly-CSharp.csproj|C:\\unity project\\ref_group_project\\Assets\\Idle-Tycoon Template 3D\\Scripts\\Collectable\\CurrencyCollectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CBD1B65-C3AB-C13C-6CAA-8CC7581ABB2F}|Assembly-CSharp.csproj|solutionrelative:Assets\\Idle-Tycoon Template 3D\\Scripts\\Collectable\\CurrencyCollectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CBD1B65-C3AB-C13C-6CAA-8CC7581ABB2F}|Assembly-CSharp.csproj|C:\\unity project\\ref_group_project\\Assets\\Idle-Tycoon Template 3D\\Scripts\\Currency\\CurrencyManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CBD1B65-C3AB-C13C-6CAA-8CC7581ABB2F}|Assembly-CSharp.csproj|solutionrelative:Assets\\Idle-Tycoon Template 3D\\Scripts\\Currency\\CurrencyManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CBD1B65-C3AB-C13C-6CAA-8CC7581ABB2F}|Assembly-CSharp.csproj|C:\\unity project\\ref_group_project\\Assets\\Idle-Tycoon Template 3D\\Scripts\\Collectable\\Collectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CBD1B65-C3AB-C13C-6CAA-8CC7581ABB2F}|Assembly-CSharp.csproj|solutionrelative:Assets\\Idle-Tycoon Template 3D\\Scripts\\Collectable\\Collectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CBD1B65-C3AB-C13C-6CAA-8CC7581ABB2F}|Assembly-CSharp.csproj|C:\\unity project\\ref_group_project\\assets\\idle-tycoon template 3d\\scripts\\interactable\\structures\\statestructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CBD1B65-C3AB-C13C-6CAA-8CC7581ABB2F}|Assembly-CSharp.csproj|solutionrelative:assets\\idle-tycoon template 3d\\scripts\\interactable\\structures\\statestructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CBD1B65-C3AB-C13C-6CAA-8CC7581ABB2F}|Assembly-CSharp.csproj|C:\\unity project\\ref_group_project\\Assets\\Idle-Tycoon Template 3D\\Scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CBD1B65-C3AB-C13C-6CAA-8CC7581ABB2F}|Assembly-CSharp.csproj|solutionrelative:Assets\\Idle-Tycoon Template 3D\\Scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CBD1B65-C3AB-C13C-6CAA-8CC7581ABB2F}|Assembly-CSharp.csproj|C:\\unity project\\ref_group_project\\assets\\idle-tycoon template 3d\\scripts\\interactable\\structures\\currencybank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CBD1B65-C3AB-C13C-6CAA-8CC7581ABB2F}|Assembly-CSharp.csproj|solutionrelative:assets\\idle-tycoon template 3d\\scripts\\interactable\\structures\\currencybank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,157 +58,152 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CropSelectionButton.cs",
-              "DocumentMoniker": "C:\\unity project\\ref_group_project\\Assets\\Idle-Tycoon Template 3D\\Scripts\\UI\\CropSelectionButton.cs",
-              "RelativeDocumentMoniker": "Assets\\Idle-Tycoon Template 3D\\Scripts\\UI\\CropSelectionButton.cs",
-              "ToolTip": "C:\\unity project\\ref_group_project\\Assets\\Idle-Tycoon Template 3D\\Scripts\\UI\\CropSelectionButton.cs",
-              "RelativeToolTip": "Assets\\Idle-Tycoon Template 3D\\Scripts\\UI\\CropSelectionButton.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T09:23:44.874Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CropButton.cs",
-              "DocumentMoniker": "C:\\unity project\\ref_group_project\\Assets\\Idle-Tycoon Template 3D\\Scripts\\UI\\CropButton.cs",
-              "RelativeDocumentMoniker": "Assets\\Idle-Tycoon Template 3D\\Scripts\\UI\\CropButton.cs",
-              "ToolTip": "C:\\unity project\\ref_group_project\\Assets\\Idle-Tycoon Template 3D\\Scripts\\UI\\CropButton.cs",
-              "RelativeToolTip": "Assets\\Idle-Tycoon Template 3D\\Scripts\\UI\\CropButton.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAADwvxoAAAARAAAAAAAAAA==",
+              "Title": "UnlockZoneObject.cs",
+              "DocumentMoniker": "C:\\unity project\\ref_group_project\\Assets\\PolygonFarm\\Scripts\\UnlockZoneObject.cs",
+              "RelativeDocumentMoniker": "Assets\\PolygonFarm\\Scripts\\UnlockZoneObject.cs",
+              "ToolTip": "C:\\unity project\\ref_group_project\\Assets\\PolygonFarm\\Scripts\\UnlockZoneObject.cs",
+              "RelativeToolTip": "Assets\\PolygonFarm\\Scripts\\UnlockZoneObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T10:57:39.669Z",
+              "WhenOpened": "2025-02-22T16:08:44.343Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CropUI.cs",
-              "DocumentMoniker": "C:\\unity project\\ref_group_project\\Assets\\Idle-Tycoon Template 3D\\Scripts\\UI\\CropUI.cs",
-              "RelativeDocumentMoniker": "Assets\\Idle-Tycoon Template 3D\\Scripts\\UI\\CropUI.cs",
-              "ToolTip": "C:\\unity project\\ref_group_project\\Assets\\Idle-Tycoon Template 3D\\Scripts\\UI\\CropUI.cs",
-              "RelativeToolTip": "Assets\\Idle-Tycoon Template 3D\\Scripts\\UI\\CropUI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ZoneBoundary.cs",
+              "DocumentMoniker": "C:\\unity project\\ref_group_project\\Assets\\PolygonFarm\\Scripts\\ZoneBoundary.cs",
+              "RelativeDocumentMoniker": "Assets\\PolygonFarm\\Scripts\\ZoneBoundary.cs",
+              "ToolTip": "C:\\unity project\\ref_group_project\\Assets\\PolygonFarm\\Scripts\\ZoneBoundary.cs",
+              "RelativeToolTip": "Assets\\PolygonFarm\\Scripts\\ZoneBoundary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T10:54:14.932Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-22T15:06:50.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FarmManager.cs",
+              "DocumentMoniker": "C:\\unity project\\ref_group_project\\Assets\\PolygonFarm\\Scripts\\FarmManager.cs",
+              "RelativeDocumentMoniker": "Assets\\PolygonFarm\\Scripts\\FarmManager.cs",
+              "ToolTip": "C:\\unity project\\ref_group_project\\Assets\\PolygonFarm\\Scripts\\FarmManager.cs",
+              "RelativeToolTip": "Assets\\PolygonFarm\\Scripts\\FarmManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T14:55:15.385Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "QuarterViewCamera.cs",
+              "DocumentMoniker": "C:\\unity project\\ref_group_project\\Assets\\PolygonFarm\\Scripts\\QuarterViewCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\PolygonFarm\\Scripts\\QuarterViewCamera.cs",
+              "ToolTip": "C:\\unity project\\ref_group_project\\Assets\\PolygonFarm\\Scripts\\QuarterViewCamera.cs",
+              "RelativeToolTip": "Assets\\PolygonFarm\\Scripts\\QuarterViewCamera.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T13:14:08.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Structure.cs",
+              "DocumentMoniker": "C:\\unity project\\ref_group_project\\Assets\\Idle-Tycoon Template 3D\\Scripts\\Interactable\\Structure.cs",
+              "RelativeDocumentMoniker": "Assets\\Idle-Tycoon Template 3D\\Scripts\\Interactable\\Structure.cs",
+              "ToolTip": "C:\\unity project\\ref_group_project\\Assets\\Idle-Tycoon Template 3D\\Scripts\\Interactable\\Structure.cs",
+              "RelativeToolTip": "Assets\\Idle-Tycoon Template 3D\\Scripts\\Interactable\\Structure.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAA2wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T12:41:58.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UICurrency.cs",
+              "DocumentMoniker": "C:\\unity project\\ref_group_project\\Assets\\Idle-Tycoon Template 3D\\Scripts\\UI\\UICurrency.cs",
+              "RelativeDocumentMoniker": "Assets\\Idle-Tycoon Template 3D\\Scripts\\UI\\UICurrency.cs",
+              "ToolTip": "C:\\unity project\\ref_group_project\\Assets\\Idle-Tycoon Template 3D\\Scripts\\UI\\UICurrency.cs",
+              "RelativeToolTip": "Assets\\Idle-Tycoon Template 3D\\Scripts\\UI\\UICurrency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T11:57:46.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "CurrencyAreaPrinter.cs",
               "DocumentMoniker": "C:\\unity project\\ref_group_project\\Assets\\Idle-Tycoon Template 3D\\Scripts\\Interactable\\Structures\\CurrencyAreaPrinter.cs",
               "RelativeDocumentMoniker": "Assets\\Idle-Tycoon Template 3D\\Scripts\\Interactable\\Structures\\CurrencyAreaPrinter.cs",
               "ToolTip": "C:\\unity project\\ref_group_project\\Assets\\Idle-Tycoon Template 3D\\Scripts\\Interactable\\Structures\\CurrencyAreaPrinter.cs",
               "RelativeToolTip": "Assets\\Idle-Tycoon Template 3D\\Scripts\\Interactable\\Structures\\CurrencyAreaPrinter.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAcwHgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T09:39:36.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T09:39:36.038Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CropInventoryManager.cs",
-              "DocumentMoniker": "C:\\unity project\\ref_group_project\\Assets\\Idle-Tycoon Template 3D\\Scripts\\CropInventoryManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Idle-Tycoon Template 3D\\Scripts\\CropInventoryManager.cs",
-              "ToolTip": "C:\\unity project\\ref_group_project\\Assets\\Idle-Tycoon Template 3D\\Scripts\\CropInventoryManager.cs",
-              "RelativeToolTip": "Assets\\Idle-Tycoon Template 3D\\Scripts\\CropInventoryManager.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAcwFIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T09:01:54.115Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "CurrencyType.cs",
               "DocumentMoniker": "C:\\unity project\\ref_group_project\\Assets\\Idle-Tycoon Template 3D\\Scripts\\Currency\\CurrencyType.cs",
               "RelativeDocumentMoniker": "Assets\\Idle-Tycoon Template 3D\\Scripts\\Currency\\CurrencyType.cs",
               "ToolTip": "C:\\unity project\\ref_group_project\\Assets\\Idle-Tycoon Template 3D\\Scripts\\Currency\\CurrencyType.cs",
               "RelativeToolTip": "Assets\\Idle-Tycoon Template 3D\\Scripts\\Currency\\CurrencyType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T08:30:25.225Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T08:30:25.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CropInventoryManager.cs",
+              "DocumentMoniker": "C:\\unity project\\ref_group_project\\Assets\\Idle-Tycoon Template 3D\\Scripts\\CropInventoryManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Idle-Tycoon Template 3D\\Scripts\\CropInventoryManager.cs",
+              "ToolTip": "C:\\unity project\\ref_group_project\\Assets\\Idle-Tycoon Template 3D\\Scripts\\CropInventoryManager.cs",
+              "RelativeToolTip": "Assets\\Idle-Tycoon Template 3D\\Scripts\\CropInventoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:01:54.115Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "CurrencyBank.cs",
-              "DocumentMoniker": "C:\\unity project\\ref_group_project\\Assets\\Idle-Tycoon Template 3D\\Scripts\\Interactable\\Structures\\CurrencyBank.cs",
-              "RelativeDocumentMoniker": "Assets\\Idle-Tycoon Template 3D\\Scripts\\Interactable\\Structures\\CurrencyBank.cs",
-              "ToolTip": "C:\\unity project\\ref_group_project\\Assets\\Idle-Tycoon Template 3D\\Scripts\\Interactable\\Structures\\CurrencyBank.cs",
-              "RelativeToolTip": "Assets\\Idle-Tycoon Template 3D\\Scripts\\Interactable\\Structures\\CurrencyBank.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAADwvxkAAAAAAAAAAAAAAA==",
+              "Title": "CropUI.cs",
+              "DocumentMoniker": "C:\\unity project\\ref_group_project\\Assets\\Idle-Tycoon Template 3D\\Scripts\\UI\\CropUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Idle-Tycoon Template 3D\\Scripts\\UI\\CropUI.cs",
+              "ToolTip": "C:\\unity project\\ref_group_project\\Assets\\Idle-Tycoon Template 3D\\Scripts\\UI\\CropUI.cs",
+              "RelativeToolTip": "Assets\\Idle-Tycoon Template 3D\\Scripts\\UI\\CropUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T07:01:48.159Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CurrencyManager.cs",
-              "DocumentMoniker": "C:\\unity project\\ref_group_project\\Assets\\Idle-Tycoon Template 3D\\Scripts\\Currency\\CurrencyManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Idle-Tycoon Template 3D\\Scripts\\Currency\\CurrencyManager.cs",
-              "ToolTip": "C:\\unity project\\ref_group_project\\Assets\\Idle-Tycoon Template 3D\\Scripts\\Currency\\CurrencyManager.cs",
-              "RelativeToolTip": "Assets\\Idle-Tycoon Template 3D\\Scripts\\Currency\\CurrencyManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T11:32:34.071Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CurrencyCollectable.cs",
-              "DocumentMoniker": "C:\\unity project\\ref_group_project\\Assets\\Idle-Tycoon Template 3D\\Scripts\\Collectable\\CurrencyCollectable.cs",
-              "RelativeDocumentMoniker": "Assets\\Idle-Tycoon Template 3D\\Scripts\\Collectable\\CurrencyCollectable.cs",
-              "ToolTip": "C:\\unity project\\ref_group_project\\Assets\\Idle-Tycoon Template 3D\\Scripts\\Collectable\\CurrencyCollectable.cs",
-              "RelativeToolTip": "Assets\\Idle-Tycoon Template 3D\\Scripts\\Collectable\\CurrencyCollectable.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAwC8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T11:32:10.409Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Collectable.cs",
-              "DocumentMoniker": "C:\\unity project\\ref_group_project\\Assets\\Idle-Tycoon Template 3D\\Scripts\\Collectable\\Collectable.cs",
-              "RelativeDocumentMoniker": "Assets\\Idle-Tycoon Template 3D\\Scripts\\Collectable\\Collectable.cs",
-              "ToolTip": "C:\\unity project\\ref_group_project\\Assets\\Idle-Tycoon Template 3D\\Scripts\\Collectable\\Collectable.cs",
-              "RelativeToolTip": "Assets\\Idle-Tycoon Template 3D\\Scripts\\Collectable\\Collectable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T11:32:03.095Z"
+              "WhenOpened": "2025-02-20T10:54:14.932Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "GameManager.cs",
-              "DocumentMoniker": "C:\\unity project\\ref_group_project\\Assets\\Idle-Tycoon Template 3D\\Scripts\\GameManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Idle-Tycoon Template 3D\\Scripts\\GameManager.cs",
-              "ToolTip": "C:\\unity project\\ref_group_project\\Assets\\Idle-Tycoon Template 3D\\Scripts\\GameManager.cs",
-              "RelativeToolTip": "Assets\\Idle-Tycoon Template 3D\\Scripts\\GameManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "CropButton.cs",
+              "DocumentMoniker": "C:\\unity project\\ref_group_project\\Assets\\Idle-Tycoon Template 3D\\Scripts\\UI\\CropButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Idle-Tycoon Template 3D\\Scripts\\UI\\CropButton.cs",
+              "ToolTip": "C:\\unity project\\ref_group_project\\Assets\\Idle-Tycoon Template 3D\\Scripts\\UI\\CropButton.cs",
+              "RelativeToolTip": "Assets\\Idle-Tycoon Template 3D\\Scripts\\UI\\CropButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T11:31:17.739Z"
+              "WhenOpened": "2025-02-20T10:57:39.669Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "StateStructure.cs",
-              "DocumentMoniker": "C:\\unity project\\ref_group_project\\Assets\\Idle-Tycoon Template 3D\\Scripts\\Interactable\\Structures\\StateStructure.cs",
-              "RelativeDocumentMoniker": "Assets\\Idle-Tycoon Template 3D\\Scripts\\Interactable\\Structures\\StateStructure.cs",
-              "ToolTip": "C:\\unity project\\ref_group_project\\Assets\\Idle-Tycoon Template 3D\\Scripts\\Interactable\\Structures\\StateStructure.cs",
-              "RelativeToolTip": "Assets\\Idle-Tycoon Template 3D\\Scripts\\Interactable\\Structures\\StateStructure.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "CropSelectionButton.cs",
+              "DocumentMoniker": "C:\\unity project\\ref_group_project\\Assets\\Idle-Tycoon Template 3D\\Scripts\\UI\\CropSelectionButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Idle-Tycoon Template 3D\\Scripts\\UI\\CropSelectionButton.cs",
+              "ToolTip": "C:\\unity project\\ref_group_project\\Assets\\Idle-Tycoon Template 3D\\Scripts\\UI\\CropSelectionButton.cs",
+              "RelativeToolTip": "Assets\\Idle-Tycoon Template 3D\\Scripts\\UI\\CropSelectionButton.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwCoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T11:29:18.588Z"
+              "WhenOpened": "2025-02-21T09:23:44.874Z"
             }
           ]
         }
